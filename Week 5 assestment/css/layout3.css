@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+    background-color:#6D9773;
+}
+.class{
+    height:auto;
+    width:100%;
+    display:flex;
+}
+.class h1, h5{
+    color: red;
+}
+.class h1{
+    padding-left:100px;
+    padding-top:60px;
+    padding-bottom:30px;
+    padding-right:50px;
+    font-size:60px;
+    text-align:justify;
+    font-size:70px;
+}
+.class h5{
+    padding-left:150px;
+    font-size:25px;
+    padding-top:60px;
+    text-align:justify;
+    font-weight:lighter;
+}
+.container img{
+    height:600px;
+    width:100%;
+    padding-left:100px;
+    padding-top:10px;
+    padding-right:100px;
+    padding-bottom:100px;
+}
